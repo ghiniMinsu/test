@@ -1,0 +1,6 @@
+{
+  "name": "RealScore Pro",
+  "description": "서울시 아파트 실거래가 기반 시세예측 및 투자등급 통합 판정 분석 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
